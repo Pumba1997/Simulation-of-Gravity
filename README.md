@@ -1,3 +1,8 @@
+## Should be improved by teams
+### TODO
+1. Fork
+2. Add description (example https://github.com/Ternopil-National-Technical-University/FIS-CS-SN-22-OMalakhovskyi_VOrnatovska_KRymar or https://github.com/Ternopil-National-Technical-University/FIS-CS-SN-22-OPalka-2015_2016-Thesis_paper)
+3. According to your team goal improve program.
 <h1>All data for based on real celestial object. Real proportion of the mass, distance and speed.</h1>
 
 <h1>Earth and moon</h1>
